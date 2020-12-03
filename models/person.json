@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Lavish Talwar",
+	"sex": "Male",
+  "age": 20,
+  "Interest": "Sports"
+  },
+  {
+    "id": 2,
+    "name": "Arslan",
+	"sex" : "Male",
+	"age" : 24,
+  "Interest": "Reading"
+  },
+  {
+    "id": 3,
+    "name": "Nitisha Garg",
+	"sex": "Female",
+	"age" : 22,
+  "Interest": "Studying"
+  },
+  {
+    "id": 4,
+    "name": "Michael George",
+	"sex": "Male",
+	"age": 52,
+  "Interest": "Listening to Music"
+  },
+  {
+    "id": 5,
+    "name": "Bhavish",
+	"sex": "Male",
+	"age": 26,
+  "Interest": "Memes"
+  },
+  {
+    "id": 6,
+    "name": "Davinder Singh",
+	"sex": "Male",
+	"age": 29,
+  "Interest": "Business"
+  }
+]
